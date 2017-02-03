@@ -1,2 +1,3 @@
 # hello-world
-for a quick tutorial
+This repository was built for a quick tutorial.
+Thanks.
